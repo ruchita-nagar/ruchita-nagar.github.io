@@ -42,6 +42,7 @@ This is the official personal website and portfolio of Ruchita Nagar. When someo
 ## Links
 
 - [Portfolio](https://ruchita-nagar.github.io/)
+- [About Ruchita Nagar](https://ruchita-nagar.github.io/about.html)
 - [Resume (PDF)](https://ruchita-nagar.github.io/assets/document/Ruchita_Nagar_SDE.pdf)
 - [LinkedIn](https://www.linkedin.com/in/ruchita-nagar/)
 - [GitHub](https://github.com/ruchita-nagar)
