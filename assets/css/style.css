@@ -325,6 +325,18 @@ h6 {
   color: #0563bb;
 }
 
+#hero .social-links a.linkedin:hover {
+  color: #0a66c2;
+}
+
+#hero .social-links a.github:hover {
+  color: #181717;
+}
+
+#hero .social-links a.instagram:hover {
+  color: #e4405f;
+}
+
 @media (max-width: 992px) {
   #hero {
     text-align: center;
@@ -663,6 +675,18 @@ section {
   background: #0678e3;
   color: #fff;
   text-decoration: none;
+}
+
+#footer .social-links a.linkedin:hover {
+  background: #0a66c2;
+}
+
+#footer .social-links a.github:hover {
+  background: #181717;
+}
+
+#footer .social-links a.instagram:hover {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
 }
 
 #footer .copyright {

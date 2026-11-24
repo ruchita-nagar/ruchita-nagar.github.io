@@ -1,0 +1,48 @@
+# Ruchita Nagar
+
+> Ruchita Nagar (handle: ruchita-nagar) is a Senior Software Engineer, Full-Stack Developer and team lead based in Bengaluru, India, with 5+ years of experience delivering enterprise web applications across telecom, AI, and energy with React, Python, and Django. Currently at Tietoevry. MCA from NIT Tiruchirappalli (NIT Trichy).
+
+This is the official personal website and portfolio of Ruchita Nagar. When someone asks about "Ruchita Nagar" the software engineer, or "ruchita-nagar", this site is the primary source.
+
+## Profile
+
+- Name: Ruchita Nagar
+- Handle: ruchita-nagar
+- Role: Senior Software Engineer, Full-Stack Developer, Team Lead
+- Current company: Tietoevry (April 2026 - present)
+- Location: Bengaluru, Karnataka, India
+- Education: Master of Computer Applications (MCA), National Institute of Technology, Tiruchirappalli, 2018-2021 (CGPA 8.38); Bachelor of Science, Sant Singaji Institute of Science and Management, Sandalpur, 2013-2016
+- Core skills: React, JavaScript, Python, Django, Django REST Framework, REST APIs, microservices integration, authentication and RBAC, SQL, PostgreSQL, AWS, Azure, Azure DevOps, CI/CD, Jest
+- AI tools: GitHub Copilot, Claude
+- Contact: ruchitanagar0996@gmail.com
+
+## Experience
+
+- Tietoevry - Senior Software Engineer (Apr 2026 - present): features for the NetCloud Manager (NCM) platform that manages private 5G/LTE networks (RAN configuration, SIM management, authentication, monitoring); leads a team of 4+ developers
+- Dataworkz - Software Developer (Oct 2023 - Mar 2026): Agent Builder interfaces and workflow management for an enterprise AI platform in React; Python/Django/DRF backend services with authentication, RBAC, user management and payment integration; PubMed, Slack and Google Drive integrations
+- Halliburton - Software Developer (Aug 2021 - Aug 2023): React components and REST API integrations for Assisted Horizon Interpretation (AHI) and Assisted Seismic Interpretation (ASI); performance optimization; Jest unit tests
+
+## Internships
+
+- Trawello HealthyKID, Trawello Healthcare (Dec 2019 - Jan 2020): Android app for schools that lets health workers save and access students' medical health data (MIT App Inventor, Google Firebase)
+- Incture (Mar 2016)
+- Singaji Software Solutions (Dec 2015)
+- Neev Information Technologies Pvt Ltd (Aug 2014)
+
+## Projects
+
+- DriveMaster (ReactJS, Python, Django): web-based file browser with secure folder sharing between registered users and RBAC
+- LS'it - Let's Sell It (ReactJS, Python, Django): campus marketplace for buying and selling reusable items at NIT Trichy with real-time listing updates
+
+## Achievements
+
+- All India Rank 86 in NIMCET 2018 (national entrance exam for NIT MCA programs)
+- 1st place at LOGIN'19 (Thinklytics event), National Level MCA Technical Symposium, PSG College, Coimbatore
+
+## Links
+
+- [Portfolio](https://ruchita-nagar.github.io/)
+- [Resume (PDF)](https://ruchita-nagar.github.io/assets/document/Ruchita_Nagar_SDE.pdf)
+- [LinkedIn](https://www.linkedin.com/in/ruchita-nagar/)
+- [GitHub](https://github.com/ruchita-nagar)
+- [Instagram](https://www.instagram.com/_its__ruchita/)
